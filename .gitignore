@@ -36,6 +36,8 @@ config.json
 *.log
 exports/
 test_results/
+data/
+.trae/
 
 # OS specific
 .DS_Store
