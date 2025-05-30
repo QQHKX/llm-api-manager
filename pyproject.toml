@@ -1,0 +1,13 @@
+[project]
+name = "llm-api-manager"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "black>=23.0.0",
+    "flake8>=6.0.0",
+    "pyperclip>=1.8.2",
+    "pytest>=7.0.0",
+    "questionary>=1.10.0",
+]
